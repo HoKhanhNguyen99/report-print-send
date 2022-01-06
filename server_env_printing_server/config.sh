@@ -19,4 +19,3 @@ GH_NAME=HoKhanhNguyen99
 # Uncomment to enable workers
 # 2 workers do not work well with coverage
 # WORKERS="-d ${DB_PREFIX}_run_${DB_SUFFIX} --workers=0 --load=base,queue_job"
-REPO_MODULES=base_report_to_printer_mail,base_report_to_printer,printer_zpl2
