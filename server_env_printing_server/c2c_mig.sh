@@ -1,0 +1,1 @@
+/home/nguyenho/trobz/tools/c2c_mig.sh
